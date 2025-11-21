@@ -16,7 +16,7 @@ const Hero = () => {
 
     // Function to open Job Portal (in new tab)
     const openJobPortal = () => {
-        window.open('http://localhost:5174/', '_self'); // Change port if your Job Portal runs on a different one
+        window.open('https://skill-sphere-q128.vercel.app/', '_self'); // Change port if your Job Portal runs on a different one
     };
 
     return (
